@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm ABRAK Mohamed</h1>
 <h3 align="center">A Software Engineer</h3>
-<img align="right" alt="Coding" width="400" src="code.jpg" />
+<img align="right" alt="Coding" width="400" src="https://www.pinterest.fr/search/pins/?rs=ac&len=2&q=animated%20coding%20image&eq=animated%20codin&etslf=8749" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abrakmohamed&label=Profile%20views&color=0e75b6&style=flat" alt="abrakmohamed" /> </p>
 
